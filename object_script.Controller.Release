@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\vertex.o
+./release\graphscene.o
+./release\graph.o
+./release\edge.o
+./release\matrixwindow.o
+./release\resultwindow.o
+./release\infowindow.o
+./release\moc_mainwindow.o
+./release\moc_graphscene.o
+./release\moc_matrixwindow.o
+./release\moc_resultwindow.o
+./release\moc_infowindow.o
+./release\qrc_resource.o
+);

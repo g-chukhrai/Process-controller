@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\vertex.o
+./debug\graphscene.o
+./debug\graph.o
+./debug\edge.o
+./debug\matrixwindow.o
+./debug\resultwindow.o
+./debug\infowindow.o
+./debug\moc_mainwindow.o
+./debug\moc_graphscene.o
+./debug\moc_matrixwindow.o
+./debug\moc_resultwindow.o
+./debug\moc_infowindow.o
+./debug\qrc_resource.o
+);

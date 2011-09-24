@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/arc.png</file>
+        <file>images/delete.png</file>
+        <file>images/icon.png</file>
+        <file>images/about.png</file>
+        <file>images/load.png</file>
+        <file>images/new.png</file>
+        <file>images/save.png</file>
+        <file>images/deleteAll.png</file>
+        <file>images/next.png</file>
+        <file>images/previous.png</file>
+        <file>images/save_as.png</file>
+        <file>images/cancel.png</file>
+        <file>images/ok.png</file>
+        <file>images/screen.png</file>
+        <file>images/start.png</file>
+        <file>images/excel.png</file>
+        <file>images/mousedbl.png</file>
+        <file>images/mousemove.png</file>
+    </qresource>
+</RCC>

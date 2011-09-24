@@ -1,0 +1,3 @@
+Процессор	Процессы	Время выполнения
+Процессор №1	process1 process2 process4 process5 process6 process10 	28	
+Процессор №2	process3 process7 process8 process9 wait1 	28	
